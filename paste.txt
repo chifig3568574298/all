@@ -67,3 +67,4 @@ c.m.163.com##.js-open-newsapp.s-top
 https://www.msn.cn
 www.msn.cn###mscmp-banner-container
 www.msn.cn##.consumption-river
+wallstreetcn.com##.mb-\[30px\].relative.bg-\[\#1478f0\].rounded-\[30px\].py-\[15px\].px-\[25px\].h-\[54px\].w-\[180px\].items-center.justify-center.flex
