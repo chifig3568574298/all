@@ -68,3 +68,9 @@ https://www.msn.cn
 www.msn.cn###mscmp-banner-container
 www.msn.cn##.consumption-river
 wallstreetcn.com##.mb-\[30px\].relative.bg-\[\#1478f0\].rounded-\[30px\].py-\[15px\].px-\[25px\].h-\[54px\].w-\[180px\].items-center.justify-center.flex
+gh-proxy.com##.sm\:space-y-4.space-y-3.sm\:mb-12.mb-8.mx-auto.max-w-\[800px\].w-full
+||n.sinaimg.cn/finance/cj/kandian/images$image
+m.163.com##.js-open-newsapp.widget-slider-article-simple
+^$ping
+cloud.tencent.com##.cdc-operation-tips
+cloud.tencent.com##.cdc-global.cdc-article-page > .cdc-operate-footer > .cdc-operate-footer__inner
